@@ -22,4 +22,4 @@ HTML - CSS - Javascript - Python - React - Express - - Node.js - Django - SQL an
 
 Im a three time, consecutive, Fantasy Football Champ. No autographs please.
 
-The Bexar in my profle name is pronounced "bear". It comes from Bexar county in texas where I lived for a while. Credit to my father as Mr. PolarBexar.
+The Bexar in my profle name is pronounced "bear". It comes from Bexar County in Texas where I lived for a while. Credit to my father as Mr. PolarBexar.
